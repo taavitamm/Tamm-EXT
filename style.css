@@ -1,0 +1,56 @@
+body
+ {
+    margin: 1em;
+    background-color: rgb(218, 213, 213);
+    font-family: sans-serif;
+}
+
+.navbar {
+ margin-left: 1em;
+ position: fixed;
+
+}
+
+.bodyin {
+    margin: 0em 0em 0em 25.5em;
+    background-color: #d9e2cd;
+    padding: 1em;
+    border-radius: 25px;
+    
+}
+
+.static {
+  position: fixed;
+  margin: 4em 0em 0em -26.5em;
+  background-color: #d9e2cd;
+  border-radius: 25px;
+  line-height: 2.7;
+
+}
+
+.static li {
+    list-style-type: none;
+    margin-left: -2em;
+    padding-right: 1em;
+}
+
+.static a:link {
+    text-decoration: none;
+}
+
+.static a:hover {
+    font-style: italic;
+    color:coral;    
+}
+
+.static a:visited {
+    color:rgb(182, 179, 178);   
+}
+
+.doc_title {
+    text-align: center;
+}
+
+table th {
+    background-color: darkgoldenrod;
+}
