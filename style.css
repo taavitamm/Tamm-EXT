@@ -5,9 +5,11 @@ body
     font-family: sans-serif;
 }
 
-.navbar {
+.navbar a:link {
  margin-left: 1em;
  position: fixed;
+ text-decoration: none;
+ 
 
 }
 
